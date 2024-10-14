@@ -94,4 +94,6 @@ Throughout this journey, we have developed a passion for artificial intelligence
 Our aspiration to introduce and promote artificial intelligence in Bangladesh is driven by our firm conviction that technology can bring about transformative change for the better. As we embrace innovation and harness the power of AI, we aim to inspire others in Bangladesh to join us on this journey towards a more advanced and progressive future.
 Chad, with its groundbreaking capabilities and cost-effective design, stands as a symbol of the immense potential that AI and robotics hold for our nation. We envision Chad as a catalyst for fostering innovation and driving progress, not only in healthcare but also in various other sectors, propelling Bangladesh towards a brighter, more technology-driven tomorrow.
 
+Video Presentation: https://youtu.be/udadlBUARns?si=Rc0iVxuWjbXZMt-w
+
 
